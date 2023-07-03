@@ -1,0 +1,9 @@
+pageLayout\AddCustomer.class
+testCases\TC_AddCust_001.class
+testUtilities\Reporting.class
+testCases\TestCase_login_001.class
+pageLayout\LoginPage.class
+testCases\TC_Login_DDT_002.class
+testCases\Baseclass.class
+testUtilities\Readconfig.class
+testUtilities\XLUtils.class
